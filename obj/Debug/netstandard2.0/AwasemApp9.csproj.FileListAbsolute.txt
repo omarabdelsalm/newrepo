@@ -1,0 +1,16 @@
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\bin\Debug\netstandard2.0\AwasemApp9.deps.json
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\bin\Debug\netstandard2.0\AwasemApp9.dll
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\bin\Debug\netstandard2.0\ref\AwasemApp9.dll
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\bin\Debug\netstandard2.0\AwasemApp9.pdb
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.csproj.CoreCompileInputs.cache
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.AssemblyInfoInputs.cache
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.AssemblyInfo.cs
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.dll
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\ref\AwasemApp9.dll
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.pdb
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\ScrollViewDemo.xaml.g.cs
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\TabbedDemo.xaml.g.cs
+C:\Users\omr\source\repos\AwasemApp9\AwasemApp9\AwasemApp9\obj\Debug\netstandard2.0\AwasemApp9.csprojAssemblyReference.cache
