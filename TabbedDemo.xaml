@@ -7,7 +7,7 @@
         
         <StackLayout>
             <StackLayout>
-                <Image x:Name="images" WidthRequest="400"/>
+                <Image x:Name="images"  Aspect="Fill"/>
             </StackLayout>
             <Label Text=" °Page one" BackgroundColor="Purple"/>
             <Entry Placeholder="write here" BackgroundColor="Azure" />
